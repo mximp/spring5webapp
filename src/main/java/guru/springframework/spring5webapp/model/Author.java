@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Created by jt on 5/16/17.
+ * @author Max Petrov
  */
 @Entity
 public class Author {
